@@ -5,3 +5,5 @@ metadata:
 name:nodehelloworl.example.com
 labels:
 app:helloworld
+spec:
+containers
